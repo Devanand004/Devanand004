@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software development**
 
-- 🌱 I’m currently learning **Kali tool , Web development**
+- 🌱 I’m currently learning **Java Development , Web development**
 
 - 💬 Ask me about **CSS, HTML , Java**
 
