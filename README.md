@@ -1,9 +1,13 @@
+<div align = "center">
 <h1 align="center">Hi 👋, I'm Devanand Upadhyay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![An image of @devanand004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devanand004)](https://holopin.io/@devanand004)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanand004&label=Profile%20views&color=0e75b6&style=flat" alt="devanand004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanand004" alt="devanand004" /></a> </p>
+
+</div>
 
 - 🔭 I’m currently working on **Software development**
 
