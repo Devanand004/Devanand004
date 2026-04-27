@@ -1,40 +1,122 @@
-<div align = "center">
-<h1 align="center">Hi 👋, I'm Devanand Upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-[![An image of @devanand004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devanand004)](https://holopin.io/@devanand004)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanand004&label=Profile%20views&color=0e75b6&style=flat" alt="devanand004" /> </p>
+# 👋 Hi, I'm Devanand Upadhyay  
+### 🚀 Frontend Developer | Building Scalable Web Experiences
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanand004" alt="devanand004" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=devanand004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
-- 🔭 I’m currently working on **Software development**
+---
 
-- 🌱 I’m currently learning **Java Development , Web development**
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **CSS, HTML , Java**
+I’m a passionate developer focused on building responsive, user-friendly, and scalable web applications.  
+Currently exploring **full-stack development and system design**.
 
-- 📫 How to reach me **devanandup2004@gmail.com**
+- 🔭 Working on: **Full Stack Projects**
+- 🌱 Learning: **Advanced Java, React, Backend Systems**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Java**
+- 📫 Email: **devanandup2004@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devanand2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanand2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devanand-upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanand-upadhyay" height="30" width="40" /></a>
-<a href="https://fb.com/devanand.upadhyay.902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devanand.upadhyay.902" height="30" width="40" /></a>
-<a href="https://instagram.com/devup2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devup2004" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/devanandup2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanandup2004" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devanandup2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devanandup2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devanandup2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanandup2004" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@devanandup2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@devanandup2004" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devanand5t6k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanand5t6k" height="30" width="40" /></a>
+---
+
+## 🚀 Featured Projects
+
+### 🌟 Portfolio Website
+> A personal portfolio to showcase my skills and projects
+
+- ⚡ Tech: HTML, CSS, JavaScript / React
+- 🔗 Live Demo: https://your-live-link.com
+- 📂 Repo: https://github.com/your-username/project1
+
+---
+
+### 🌟 Full Stack App
+> A complete web application with frontend + backend
+
+- ⚡ Tech: React, Node.js, MongoDB
+- 🔗 Live Demo: https://your-live-link.com
+- 📂 Repo: https://github.com/your-username/project2
+
+---
+
+### 🌟 Java Project
+> Java-based application or problem-solving project
+
+- ⚡ Tech: Java
+- 📂 Repo: https://github.com/your-username/project3
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+Java • JavaScript • Python • C  
+
+### 🎨 Frontend
+HTML • CSS • React  
+
+### 🔧 Backend
+Node.js • Express • Django  
+
+### 🗄 Database
+MongoDB • MySQL • Firebase  
+
+### ⚙ Tools
+Git • Linux • Figma • Photoshop  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devanand004&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devanand004&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanand004&show_icons=true&locale=en&layout=compact" alt="devanand004" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanand004&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanand004&show_icons=true&locale=en" alt="devanand004" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanand004&" alt="devanand004" /></p>
+## 🧠 Coding Profiles
+
+- LeetCode: https://leetcode.com/devanandup2004  
+- HackerRank: https://hackerrank.com/devanandup2004  
+- CodeChef: https://codechef.com/users/devanandup2004  
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/devanand-upadhyay  
+- Twitter: https://twitter.com/devanand2004  
+- Instagram: https://instagram.com/devup2004  
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build production-level full stack apps  
+- 📚 Master Data Structures & Algorithms  
+- ⚡ Learn System Design  
+- 🌍 Contribute to Open Source  
+
+---
+
+## 💡 Quote
+
+> “Don’t just write code. Build things that people can use.”
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
